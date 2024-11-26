@@ -1,0 +1,16 @@
+
+body{
+    overflow-x:hidden;
+    font-family: 'Montserrat', 'sans-serif';
+    color: #616971;
+}
+
+.top-bar{
+    background: #7aaec4;
+    height: 2.8rem;
+    padding: .5 rem 0;
+}
+
+.top-bar a {
+    color: white;
+}
